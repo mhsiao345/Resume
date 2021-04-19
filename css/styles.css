@@ -34,8 +34,13 @@ body {
   text-align: center;
 }
 
+.bottom {
+  background-color: #66BFBF;
+  padding: 20px 0 20px;
+}
+
 p {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.8;
 }
 
@@ -54,13 +59,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   color: #11999E;
   font-family: "Montserrat", sans-serif;
 }
 
 h4 {
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #11999E;
   font-family: "Montserrat", sans-serif;
 }
@@ -73,19 +78,19 @@ hr {
 }
 
 li {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.8;
 }
 
 td {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.8;
 }
 
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1rem;
   text-decoration: none
 }
 
