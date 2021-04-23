@@ -59,13 +59,13 @@ h2 {
 }
 
 h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: #11999E;
   font-family: "Montserrat", sans-serif;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #11999E;
   font-family: "Montserrat", sans-serif;
 }
@@ -87,7 +87,7 @@ td {
   line-height: 1.8;
 }
 
-a{
+a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
