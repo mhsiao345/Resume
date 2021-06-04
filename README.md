@@ -1,3 +1,1 @@
-## View my resume
-
-https://mhsiao345.github.io/Resume/
+## See my resume:  https://mhsiao345.github.io/Resume/
